@@ -1,0 +1,6 @@
+{
+  "name": "chess-analysis-board",
+  "private": true,
+  "scripts": { "build": "node scripts/prepare.js" },
+  "dependencies": { "stockfish": ">=17.1.0" }
+}
